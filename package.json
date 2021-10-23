@@ -1,5 +1,5 @@
 {
-    "name": "DiscordTwitchBotCombo",
+    "name": "discord-twitch-bot-combo",
     "version": "1.0.0",
     "description": "A bot for the discords and twitches at once",
     "main": "index.js",
