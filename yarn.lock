@@ -309,6 +309,16 @@
     klona "^2.0.4"
     tslib "^2.0.3"
 
+"@twurple/easy-bot@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@twurple/easy-bot/-/easy-bot-5.0.5.tgz#16c5f41550f63df197e2c1118b535f0290841fce"
+  integrity sha512-aATB68XOMeZK3kOmlFufNgUqAMJN3mx02n5GnBuG1ievEDHkXLrb/PCeZM9ZQxtwBZwf0ZZr4cQLjrsjkDu12w==
+  dependencies:
+    "@d-fischer/shared-utils" "^3.2.0"
+    "@twurple/auth" "^5.0.5"
+    "@twurple/chat" "^5.0.5"
+    tslib "^2.0.3"
+
 "@twurple/eventsub@^5.0.5":
   version "5.0.5"
   resolved "https://registry.yarnpkg.com/@twurple/eventsub/-/eventsub-5.0.5.tgz#ddfa2e016975acf3208afc1b4d33f554c639d103"
