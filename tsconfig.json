@@ -1,19 +1,19 @@
 {
     "compilerOptions": {
-      "module": "CommonJS",
-      "target": "ES6",
-      "types": ["node"],
-      "typeRoots": ["node_modules/@types"],
-      "strict": true,
-      "strictNullChecks": true,
-      "noImplicitAny": true,
-      "removeComments": true,
-      "preserveConstEnums": true,
-      "sourceMap": true,
-      "moduleResolution": "node",
-      "outDir": "dist",
-      "rootDir": "./"
+        "module": "CommonJS",
+        "target": "ES6",
+        "types": ["node"],
+        "typeRoots": ["node_modules/@types"],
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "rootDir": "./"
     },
     "include": ["src/"],
     "exclude": ["node_modules", "**/*.spec.ts"]
-  }
+}
